@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # directories
-SOURCE="quickjs-2019-07-09"
+SOURCE="quickjs-2025-03-17"
 SOURCE_URL="https://github.com/Moss37/quickjs/archive/refs/tags/0.0.2025-03-17.tar.gz"
 FAT="QuickJS_iOS"
 
